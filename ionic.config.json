@@ -1,0 +1,7 @@
+{
+  "name": "Oli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
